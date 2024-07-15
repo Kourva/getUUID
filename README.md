@@ -16,7 +16,7 @@ Get both version1 or version4 UUID from [uuidgenerator](https://www.uuidgenerato
 # Installatrion
 + clone 
 ```bash
-https://github.com/Kourva/getUUID && cd getUUID
+https://github.com/kozyol/getUUID && cd getUUID
 ```
 + requirements
 ```bash
