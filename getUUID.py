@@ -2,7 +2,7 @@
 
 
 # Get both version1 or version4 UUID from https://www.uuidgenerator.net
-# GitHub: https://github.com/kozyol/getUUID
+# GitHub: https://github.com/Kourva/getUUID
 
 
 # Imports
